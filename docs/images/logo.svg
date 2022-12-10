@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1080 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="Background" transform="matrix(1.29032,0,0,1.29032,-217.419,-213.548)">
+        <g id="Outline" transform="matrix(0.775,0,0,0.775,146.8,194.175)">
+            <circle cx="568" cy="503" r="540" style="fill:rgb(43,54,65);stroke:rgb(44,54,65);stroke-width:1px;"/>
+        </g>
+        <circle id="Circle" cx="587" cy="584" r="403" style="fill:rgb(43,68,96);stroke:rgb(43,68,96);stroke-width:0.78px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+    </g>
+    <g transform="matrix(1.16326,0,0,1.16326,132.857,214.286)">
+        <rect x="297.5" y="420" width="262.5" height="70" style="fill:rgb(198,198,198);fill-rule:nonzero;stroke:rgb(198,198,198);stroke-width:0.86px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        <rect x="297.5" y="297.5" width="262.5" height="70" style="fill:rgb(198,198,198);fill-rule:nonzero;stroke:rgb(198,198,198);stroke-width:0.86px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        <path d="M595,105L105,105L105,498.75C105,505.711 107.766,512.391 112.688,517.312C117.609,522.233 124.29,525 131.25,525L568.75,525C575.71,525 582.391,522.234 587.312,517.312C592.233,512.39 594.999,505.71 594.999,498.75L595,105ZM262.5,507.5L122.5,507.5L122.5,280L262.5,280L262.5,507.5ZM577.5,507.5L280,507.5L280,402.5L577.5,402.5L577.5,507.5ZM577.5,385L280,385L280,280L577.5,280L577.5,385ZM577.5,262.5L122.5,262.5L122.5,122.5L577.5,122.5L577.5,262.5Z" style="fill:rgb(198,198,198);fill-rule:nonzero;stroke:rgb(198,198,198);stroke-width:0.86px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        <rect x="140" y="140" width="420" height="105" style="fill:rgb(198,198,198);fill-rule:nonzero;stroke:rgb(198,198,198);stroke-width:0.86px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        <path d="M595,61.25C595,54.289 592.234,47.609 587.313,42.688C582.391,37.767 575.711,35.001 568.751,35.001L131.25,35.001C124.29,35.001 117.609,37.766 112.688,42.688C107.768,47.61 105.001,54.29 105.001,61.25L105.001,87.5L595.001,87.5L595,61.25ZM140,70L122.5,70L122.5,52.5L140,52.5L140,70ZM175,70L157.5,70L157.5,52.5L175,52.5L175,70ZM210,70L192.5,70L192.5,52.5L210,52.5L210,70Z" style="fill:rgb(198,198,198);fill-rule:nonzero;stroke:rgb(198,198,198);stroke-width:0.86px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+        <rect x="140" y="297.5" width="105" height="192.5" style="fill:rgb(198,198,198);fill-rule:nonzero;stroke:rgb(198,198,198);stroke-width:0.86px;stroke-linecap:butt;stroke-miterlimit:2;"/>
+    </g>
+</svg>
