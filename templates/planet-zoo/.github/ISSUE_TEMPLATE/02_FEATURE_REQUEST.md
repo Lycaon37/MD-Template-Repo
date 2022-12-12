@@ -20,13 +20,13 @@ assignees: ""
 
 <!-- A clear and concise description of any alternative solutions or features you've considered. -->
 
-**Related Code**
+**Related Content**
 
 <!-- If you are able to illustrate the bug or feature request with an example, please provide it here. -->
 
 **Additional Context**
 
-<!-- List any other information that is relevant to your issue. Related issues, suggestions on how to add, use case, Stack Overflow links, forum links, screenshots, OS if applicable, etc. -->
+<!-- List any other information that is relevant to your issue. Related issues, suggestions on how to add, use case, screenshots, etc. -->
 
 **If the feature request is approved, would you be willing to submit a PR?**
 _(Help can be provided if you need assistance submitting a PR)_

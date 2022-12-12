@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/GITHUB_USERNAME/REPO_SLUG">
-    <img src="docs/images/banner.png" alt="Project Banner" width="640" height="auto">
+    <img src="docs/images/banner.png" alt="Project Banner" width="66%" height="auto">
   </a>
 </h1>
 
@@ -20,10 +20,10 @@
 <div align="center">
 <br />
 
-  [![Patch Status](https://img.shields.io/badge/Update%201.11%20Status-Compatible-success.svg)]()
+  [![Patch Status](https://img.shields.io/badge/1.11%20Status-Compatible-success.svg)]()
 
   [![License](https://img.shields.io/badge/License-CC--BY--4.0-green.svg)]()
-  [![Latest Version](https://img.shields.io/badge/Latest%20Version-v1.0.0-informational.svg)]()
+  [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 </div>
 
@@ -71,20 +71,22 @@
 
 ### Built With
 
-- [Cobra Tools](https://github.com/OpenNaja/cobra-tools) - Editing .ovl & .ms2 files.
+- [Cobra Tools](https://github.com/OpenNaja/cobra-tools) - Editing .ovl & .ms2 files
 - [Blender](https://www.blender.org/) - Models
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Media
+- [SQLiteStudio](https://www.sqlitestudio.pl/) - Editing .fdb files
 
 ## Getting Started
 
 ### Prerequisites
 
-- Legally purchased copy of Planet Zoo.
+> **[?]**
+> What are the project requirements/dependencies? This can be filled in from the [list.](docs/requirements.md)
 
 ### Installation
 
 > **[?]**
-> Describe how to install and get started with the project. This can be filled in from the template install instructions.
+> Describe how to install and get started with the project. This can be filled in from the [list.](docs/install-instructions.md)
 
 ## Usage
 
@@ -125,7 +127,7 @@ For a full list of all authors and contributors, see [the contributors page](htt
 
 ## License
 
-This project is licensed under the **MIT license**.
+This project is licensed under the **Creative Commons Attribution 4.0 License**.
 
 See [LICENSE](LICENSE) for more information.
 
@@ -133,7 +135,7 @@ See [LICENSE](LICENSE) for more information.
 
 > **[?]**
 > If your work was funded by any organization or institution, acknowledge their support here.
-> In addition, if your work relies on other software libraries, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
+> In addition, if your work relies on other mods or tools, or was inspired by looking at other work, it is appropriate to acknowledge this intellectual debt too.
 
 - [The Amazing GitHub Template](https://github.com/dec0dOS/amazing-github-template), which was used to create this documentation.
 - [Frontier Developments](https://www.frontier.co.uk/), who made the game.
